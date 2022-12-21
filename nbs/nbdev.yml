@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "deep_reinforcement_learning_hands_on"
+  site-url: "https://MeherKharbachi.github.io/deep_reinforcement_learning_hands_on"
+  description: "Deep Reinforcement Learning Notes"
+  repo-branch: main
+  repo-url: "https://github.com/MeherKharbachi/deep_reinforcement_learning_hands_on"
